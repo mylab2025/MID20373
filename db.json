@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "12V RELAY SMD ",
+        "PN": "HFD4/12-S",
+        "MF": "HONGFA"
+      },
+      "MID": "MID20373",
+      "MD": "The Hongfa HFD4/12-S is a subminiature, 4th-generation electromagnetic signal relay widely utilized in telecommunications, testing equipment, and medical devices. The code translates to the HFD4 series, a 12V DC nominal coil voltage, and the \"-S\" suffix denoting a standard surface-mount (SMT) gull-wing termination style.\n\r\nTechnical Specifications\n\nParameter Specification\nManufacturer HONGFA (宏发)\nContact Configuration DPDT (2 Form C)\nNominal Coil Voltage 12V DC\nCoil Resistance 1.028 kΩ (1028Ω)\nCoil Power Consumption ~140 mW\nMax Switching Current 2 A\nMax Switching Voltage 250V AC / 220V DC\nContact Rating (Resistive) 1A @ 30V DC / 0.3A @ 125V AC\nContact Material Silver Nickel (AgNi) + Gold plated\nMounting Style Surface Mount Device (SMD/SMT - Gull-wing)\nDimensions (L × W × H) 10 mm × 6.5 mm × 5.4 mm (approx.)\nNumber of Pins 8 pins\nOperating Temperature -40°C to +85°C\n",
+      "MT": "Electronic Material",
+      "MQNT": 8,
+      "MCost": 230.89,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20373%2Fmain%2FHFD4%2012-S.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20373/main/IMG_20261109_125133.jpg"
+      ]
+    }
+  ]
+}
